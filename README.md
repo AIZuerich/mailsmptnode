@@ -1,0 +1,2 @@
+# mailsmptnode
+nodemailer
